@@ -1,0 +1,45 @@
+[
+    {
+        "event_name": "Product viewed",
+        "event_datetime": "2024-02-22 12:12:23",
+        "attributes": {
+            "currency": "USD",
+            "value": 123
+        },
+        "traits": {
+            "email": "sarah.mason@klaviyo-demo.com",
+            "phone_number": "+15005550006",
+            "first_name": "Sarah",
+            "last_name": "Mason",
+            "organization": "Example Corporation",
+            "title": "Regional Manager",
+            "image": "https://images.pexels.com/photos/3760854/pexels-photo-3760854.jpeg",
+            "location": {
+                "address1": "89 E 42nd St",
+                "address2": "1st floor",
+                "city": "New York",
+                "country": "United States",
+                "region": "NY",
+                "zip": "10017",
+                "timezone": "America/New_York",
+                "ip": "127.0.0.1"
+            }
+        }
+    },
+    {
+        "event_name": "Product viewed",
+        "event_datetime": "2024-02-22 12:12:23",
+        "attributes": {
+            "currency": "USD",
+            "value": 123
+        }
+    },
+    {
+        "event_name": "Product viewed",
+        "event_datetime": "2024-02-22 12:12:23",
+        "attributes": {
+            "currency": "USD",
+            "value": 123
+        }
+    }
+]
